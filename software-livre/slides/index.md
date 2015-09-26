@@ -1,10 +1,6 @@
 
 # Software Livre
 
-From the terminal, pop in:
+Primeiro Encontro .NET Coders Ladies
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+Raquel Lira
